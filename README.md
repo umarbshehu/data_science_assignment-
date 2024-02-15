@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 100 numpy exercises
 This is a collection of exercises that have been collected in the numpy mailing list, on stack overflow and in the numpy documentation. The goal of this collection is to offer a quick reference for both old and new users but also to provide a set of exercises for those who teach.
 
@@ -127,3 +128,6 @@ np.sqrt(-1) == np.emath.sqrt(-1)
 98. Considering a path described by two vectors (X,Y), how to sample it using equidistant samples (★★★)?
 99. Given an integer n and a 2D array X, select from X the rows which can be interpreted as draws from a multinomial distribution with n degrees, i.e., the rows which only contain integers and which sum to n. (★★★)
 100. Compute bootstrapped 95% confidence intervals for the mean of a 1D array X (i.e., resample the elements of an array with replacement N times, compute the mean of each sample, and then compute percentiles over the means). (★★★)
+=======
+### Arewa Data Science Assignments
+>>>>>>> c9bfce236c78ac3178b94558e4439ba04e9e5689
